@@ -7,7 +7,7 @@
     text-decoration: none;
 }
 
-header{
+header {
     position: fixed;
     right: 0;
     top: 0;
@@ -18,6 +18,10 @@ header{
     justify-content: space-between;
     padding: 33px 9%;
     background: transparent;
+}
+
+.l-header-logo {
+    max-width: 160px;
 }
 
 body{
@@ -36,9 +40,9 @@ body{
 
 .navlist a{
     color: white;
-    margin-left: 60px;
-    font-size: 15px;
-    font-weight: 600;
+    margin-left: 40px;
+    font-size: 19px;
+    font-weight: 400;
     border-bottom: 2px solid transparent;
     transition: all .55s ease; 
 }

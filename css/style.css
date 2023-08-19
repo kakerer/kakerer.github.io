@@ -71,6 +71,10 @@ body{
     gap: 2rem;
 }
 
+.section-intro{
+    max-width: 376px;
+}
+
 section{
     padding: 0 19%; 
 }

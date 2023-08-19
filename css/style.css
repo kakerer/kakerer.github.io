@@ -40,7 +40,7 @@ body{
 
 .navlist a{
     color: white;
-    margin-left: 40px;
+    margin-left: 20px;
     font-size: 19px;
     font-weight: 400;
     border-bottom: 2px solid transparent;
@@ -267,6 +267,9 @@ section{
     }
 }
 
+section p {
+    color: white; /* 任意の色を選んでください */
+}
 @media (max-width: 680px){
     .hero-img img{
         width: 100%;

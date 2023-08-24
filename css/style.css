@@ -137,6 +137,23 @@ section{
     margin-right: 5px;
 }
 
+.footer-text h1{
+    color: #E5D7F6;
+    text-align: center;
+}
+
+.footer-text h2{
+    text-align: center;
+    color: white;
+    border: 1px solid transparent;
+    padding: 12px 30px;
+    line-height: 1.4;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 30px;
+    border-bottom: 2px solid transparent;
+}
+
 .icons{
     position: absolute;
     top: 50%;
